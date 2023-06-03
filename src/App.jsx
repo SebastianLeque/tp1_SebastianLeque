@@ -6,7 +6,7 @@ import './App.css'
     return (
     <>
     <NavBar/>
-    <ItemListContainer greeting = {"Saludos ciudadano promedio tengo mercadería muy interesante para ti"}/> 
+    <ItemListContainer greeting = {"Saludos ciudadano promedio, tengo mercadería muy interesante para ti"}/> 
     </>
   )
 }
