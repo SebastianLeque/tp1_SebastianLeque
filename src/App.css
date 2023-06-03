@@ -1,0 +1,12 @@
+*{
+    margin: 0px 3px;
+    padding: 0;
+    background-color: rgb(231, 245, 207);
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+h2{
+    text-align: center;
+    margin-top: 10px;
+}

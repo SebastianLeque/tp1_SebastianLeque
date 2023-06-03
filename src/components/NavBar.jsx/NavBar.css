@@ -1,0 +1,36 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid yellowgreen;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem;
+    cursor: pointer;
+}
+
+li{
+    list-style: none;
+    margin-right: 1rem;
+}
+
+.items{
+    display: flex;
+}
+
+nav{
+    align-items: center;
+}
+strong{
+    align-items: center;
+    color: red
+}
+
+.carsito{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
